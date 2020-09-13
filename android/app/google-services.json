@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "197673752865",
+    "firebase_url": "https://doctorspointnew.firebaseio.com",
+    "project_id": "doctorspointnew",
+    "storage_bucket": "doctorspointnew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197673752865:android:e3f920fa2537e965488660",
+        "android_client_info": {
+          "package_name": "com.example.doctors_point_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197673752865-fln7i0ib979bmugrauq61hv4m7a9rbhl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-8io6pmFsWb8E-83jWxw9dPAkF0KnXV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197673752865-fln7i0ib979bmugrauq61hv4m7a9rbhl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
